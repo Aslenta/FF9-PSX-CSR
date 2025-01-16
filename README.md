@@ -1,8 +1,8 @@
-# Final Fantasy IX CSR (CutScene Remover) patches for PSX NTSC discs (v1.1.0)
-Theses patches are for NTSC disc images for the intended purpose of speedrunning
+# Final Fantasy IX CSR (CutScene Remover) patches for PSX discs (USA v1.1.0)
+Theses patches are for USA and Japanese NTSC disc images for the intended purpose of speedrunning (although can also be used for casual playthroughs)
 
-Greatest Hits discs boot up with "Square Enix U.S.A. Inc."
-<br>Black Label discs boot up with "Square Electronic Arts L.L.C."
+Greatest Hits USA discs boot up with "Published by Square Enix U.S.A. Inc."
+<br>Black Label USA discs boot up with "Published by Square Electronic Arts L.L.C."
 <br>If you get a warning message when applying the PPF, you have probably used the wrong PPF for your disc image
 
 I would recommend keeping backup copies of your original disc images
