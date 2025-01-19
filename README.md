@@ -1,4 +1,4 @@
-# Final Fantasy IX CSR (CutScene Remover) patches for PSX discs (USA v1.1.0)
+# Final Fantasy IX CSR (CutScene Remover) patches for PSX discs (USA v1.2.0)
 Theses patches are for USA and Japanese NTSC disc images for the intended purpose of speedrunning (although can also be used for casual playthroughs)
 
 Greatest Hits USA discs boot up with "Published by Square Enix U.S.A. Inc."
